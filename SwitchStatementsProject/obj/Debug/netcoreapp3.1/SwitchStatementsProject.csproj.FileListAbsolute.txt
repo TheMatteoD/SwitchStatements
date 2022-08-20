@@ -1,0 +1,14 @@
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.exe
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.deps.json
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.runtimeconfig.json
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.runtimeconfig.dev.json
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.dll
+D:\Repos\SwitchStatements\SwitchStatementsProject\bin\Debug\netcoreapp3.1\SwitchStatementsProject.pdb
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.csproj.AssemblyReference.cache
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.AssemblyInfoInputs.cache
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.AssemblyInfo.cs
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.csproj.CoreCompileInputs.cache
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.dll
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.pdb
+D:\Repos\SwitchStatements\SwitchStatementsProject\obj\Debug\netcoreapp3.1\SwitchStatementsProject.genruntimeconfig.cache
